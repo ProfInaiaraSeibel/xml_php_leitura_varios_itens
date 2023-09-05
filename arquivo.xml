@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<vendas>
+    <titulo>Fatura de Venda</titulo>
+    <relatorio>Relatório mensal</relatorio>
+    <venda>
+        <id>1</id> 
+        <nome>Inaiara</nome> 
+        <email>inaiaraseibel@isprojetos.com</email> 
+        <celular>(51) 9 9999-9999</celular>
+        <produtos>
+            <produto>
+                <id>52</id>
+                <nome>Produto 52</nome>
+                <quantidade>2</quantidade>
+            </produto>
+            <produto>
+                <id>7</id>
+                <nome>Produto 7</nome>
+                <quantidade>5</quantidade>
+            </produto>
+        </produtos>
+    </venda>
+    <venda>
+        <id>2</id> 
+        <nome>Vicente</nome> 
+        <email>vicente@email.com</email> 
+        <celular>(51) 9 9999-9999</celular>
+            <produtos>
+                <produto>
+                    <id>43</id>
+                    <nome>Produto 43</nome>
+                    <quantidade>3</quantidade>
+                </produto>
+                <produto>
+                    <id>25</id>
+                    <nome>Produto 25</nome>
+                    <quantidade>4</quantidade>
+                </produto>
+            </produtos>
+    </venda>
+</vendas>
